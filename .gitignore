@@ -1,0 +1,10 @@
+node_modules
+.env
+dist
+build
+.claude
+.agent
+CLAUDE.md 
+GEMINI.md 
+STANDARDS.md 
+.editorconfig
